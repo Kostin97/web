@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\ucheba\\web\\лр 3-4\\lr3_4\\lr3_4\\lr3-4.csproj",
+      "projectUniqueName": "C:\\Documents\\GitHub\\web\\lr3_4\\lr3_4\\lr3-4.csproj",
       "projectName": "lr3-4",
-      "projectPath": "A:\\ucheba\\web\\лр 3-4\\lr3_4\\lr3_4\\lr3-4.csproj",
+      "projectPath": "C:\\Documents\\GitHub\\web\\lr3_4\\lr3_4\\lr3-4.csproj",
       "packagesPath": "C:\\Users\\позирон\\.nuget\\packages\\",
-      "outputPath": "A:\\ucheba\\web\\лр 3-4\\lr3_4\\lr3_4\\obj\\",
+      "outputPath": "C:\\Documents\\GitHub\\web\\lr3_4\\lr3_4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
